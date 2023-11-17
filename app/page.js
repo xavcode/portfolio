@@ -4,8 +4,8 @@ import { Content } from './components/Content'
 export default function Home() {
   return (
     <main className=''>
-      <aside className="grid grid-flow-row-dense">      
-        <div className=''>
+      <aside >      
+        <div className='pt-3'>
          <Avatar/>
         </div>
       </aside>
